@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+
+  // Different data types in C++
   int number = 2;
   float price = 50.50;
   char first_letter = 'a';
@@ -15,4 +17,4 @@ int main()
 
   return 0;
 }
-//This is the test file
+// This is the test file
